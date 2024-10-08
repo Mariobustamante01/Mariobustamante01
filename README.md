@@ -4,28 +4,25 @@ Mario</a></h1>
 
 ![Github Banner]()
 
-<div align="center">
-  
-[this is for the picture]: #	
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<div  align="left">
-  **Mariobustamante01/Mariobustamante01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</div>
+![GitHub followers](https://img.shields.io/github/followers/Mariobustamante01?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Mariobustamante01?style=social)<img src="https://komarev.com/ghpvc/?username=Mariobustamante01" alt="" />
+
+
+
+ 🔭 I’m currently working on [My portfolio website]()
+
+ 🌱 I’m currently learning **React.js**
+
+ 💬 Ask me about **Node.js, HTML, PHP, MySQL, CSS & JS**
+
+ 📫 Reach out to me: **soyluism01@gmail.com**
+
+ ✍ You can find my resume [here]()
+
+ ⚡ Fun fact: **My first line of code was not "Hello World!"**
 
 
 <div id="user-content-toc">
