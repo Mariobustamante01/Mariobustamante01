@@ -43,20 +43,19 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/luis-mario-bustamante-iglesias-037b30295/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mario.bustamante__/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/Mariobustamante01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariobustamante01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariobustamante01&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br>
+<div align ="center"> 
+  <a href="https://www.instagram.com/mario.bustamante__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/profile.php?id=100014718348240" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "soyluism01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-mario-bustamante-iglesias-037b30295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
 </div>
 
