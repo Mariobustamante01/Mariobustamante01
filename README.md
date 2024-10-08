@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
 Mario</a></h1>
 
-![Github Banner]()
+
 
 
 
