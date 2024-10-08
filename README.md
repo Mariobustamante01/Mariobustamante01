@@ -11,13 +11,7 @@ Mario</a></h1>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<div>
+<div  align="left">
   **Mariobustamante01/Mariobustamante01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -32,6 +26,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
